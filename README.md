@@ -1,2 +1,4 @@
 # react-dva
-启动 npm install
+1.npm install
+2.打开命令webpack
+3.打开命令node app.js
